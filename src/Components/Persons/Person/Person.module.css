@@ -1,0 +1,27 @@
+.box{
+    border: 1px solid #ddd;
+    width: 500px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color:rgb(246, 223, 51);
+}
+.button{
+    background-color:red;
+         color:white;
+         border:2px solid #ddd;
+     margin:5px;
+         padding:10px;
+         cursor:pointer;
+     font-size:20px;
+    }
+    .button:hover{
+        background-color:pink;
+        color:black;
+      }
+
+.red2{
+    background-color:rgb(248, 209, 101);
+}      
+.red3{
+    background-color:rgb(253, 143, 74);
+}  
